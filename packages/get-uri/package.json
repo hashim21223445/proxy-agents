@@ -49,7 +49,7 @@
     "typescript": "^5.0.4"
   },
   "dependencies": {
-    "basic-ftp": "^5.0.2",
+    "basic-ftp": "^6.2.4",
     "data-uri-to-buffer": "^6.0.2",
     "debug": "^4.3.4",
     "fs-extra": "^11.2.0"
